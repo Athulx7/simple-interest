@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/simple-interest/static/css/main.ff02f4b5.css",
+    "main.js": "/simple-interest/static/js/main.f8782ca8.js",
+    "static/js/453.c1df0254.chunk.js": "/simple-interest/static/js/453.c1df0254.chunk.js",
+    "index.html": "/simple-interest/index.html",
+    "main.ff02f4b5.css.map": "/simple-interest/static/css/main.ff02f4b5.css.map",
+    "main.f8782ca8.js.map": "/simple-interest/static/js/main.f8782ca8.js.map",
+    "453.c1df0254.chunk.js.map": "/simple-interest/static/js/453.c1df0254.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff02f4b5.css",
+    "static/js/main.f8782ca8.js"
+  ]
+}
